@@ -6,7 +6,7 @@ module.exports = {
     'Gaurav Raj, thehackersbrain, hackersbrain, hacker, programmer, freelancer, gauravraj0408, hiddenwave, bihar, ctf, ctf player',
   siteUrl: 'https://thehackersbrain.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: '',
+  googleAnalyticsID: 'G-P7WXNB6ZHV',
   googleVerification: '',
   name: 'Gaurav Raj',
   location: 'Bihar, India',
