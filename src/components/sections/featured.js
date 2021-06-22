@@ -204,6 +204,11 @@ const StyledProject = styled.div`
   }
 `;
 
+const ShowMoreProjects = styled.a`
+  ${mixins.bigButton};
+  margin-top: 50px;
+`;
+
 const Featured = ({ data }) => {
   const featuredProjects = data.filter(({ node }) => node);
 
@@ -281,6 +286,12 @@ const Featured = ({ data }) => {
             );
           })}
       </div>
+      <ShowMoreProjects
+        href="https://github.com/thehackersbrain?tab=repositories"
+        target="_blank"
+        rel="nofollow noopener noreferrer">
+        Show More
+      </ShowMoreProjects>
     </StyledContainer>
   );
 };
