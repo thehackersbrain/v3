@@ -1,11 +1,11 @@
 {
-  "name": "v2",
-  "description": "Personal Website V2",
-  "version": "1.0.0",
-  "author": "Chandrika Deb <chandrikadeb7@gmail.com>",
+  "name": "v3",
+  "description": "Portfolio Website v3",
+  "version": "3.0.0",
+  "author": "Gaurav Raj <techw803@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chandrikadeb7/chandrikadeb7.github.io"
+    "url": "https://github.com/thehackersbrain/thehackersbrain.github.io"
   },
   "keywords": [
     "gatsby"
