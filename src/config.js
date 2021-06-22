@@ -1,38 +1,38 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Engineer',
+  siteTitle: 'Gaurav Raj | Hacker, Programmer & FreeLancer',
   siteDescription:
-    'Chandrika Deb is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'I am Gaurav Raj. Hacker, Programmer & FreeLancer. Curious Student learning things while breaking and building things.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software engineer, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Gaurav Raj, thehackersbrain, hackersbrain, hacker, programmer, freelancer, gauravraj0408, hiddenwave, bihar, ctf, ctf player',
+  siteUrl: 'https://thehackersbrain.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  name: 'Gaurav Raj',
+  location: 'Bihar, India',
+  email: 'techw803@gmail.com',
+  github: 'https://github.com/thehackersbrain',
+  twitterHandle: '@thehackersbrain',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/thehackersbrain',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      url: 'https://codepen.io/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/___cd.___/',
+      url: 'https://www.instagram.com/thehackersbrain/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/thehackersbrain',
     },
   ],
 

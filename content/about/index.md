@@ -2,20 +2,20 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Tech Blogging
-  - Pencil Sketch
-  - Kathak Dance
-  - Public Speaking
-  - Team Management
-  - Mentoring
+  - CyberSecurity
+  - Web Development
+  - Programming
+  - Puzzle Solving
+  - Blogger
+  - Content Creator
 ---
 
-Hello! I'm Chandrika Deb, from Jamshedpur, also known as Pittsburgh of India.
+Hello! I'm Gaurav Raj. Hacker, Programmer & FreeLancer. from Bihar, India.
 
-A Software Engineering Associate in the Digital Delivery team at [Amdocs](https://www.amdocs.com/), India.
+A CyberSecurity Student, constantly learning new things while making and breaking things and playing around.
 
-I have completed my Bachelors from [BIT Mesra](https://www.bitmesra.ac.in/) in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing). 
+I have completed the **TechHacker \[EHCS\]** by [bittentech](https://bittentechsolutions.in) and **eJPT** from [ELearnSecurity](https://elearnsecurity.com/product/ejpt-certification/)
 
-I have also been awarded as Runners-Up in [Project ICE(Innovative and Creative Environment) Fair](https://drive.google.com/file/d/1laynNsd9hIqxL-imT8dkAWqq7ZO4hj1a/view?usp=sharing) by Amdocs.
+I also sometimes write tech blogs, walkthroughs and writeups on my [blog](https://gauravraj.tech/) and create vulnerable machines or VMs on [VulnHub](https://www.vulnhub.com/author/thehackersbrain,789/), hope to do more in future, who knows :)
 
 Here are a few of the other activities that I love to do!
