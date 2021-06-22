@@ -5,7 +5,7 @@
   Portfolio Website Version 3
 </h1>
 <p align="center">
-  The third iteration of <a href="https://thehackersbrain.github.io/" target="_blank">chandrikadeb7.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The third iteration of <a href="https://thehackersbrain.github.io/" target="_blank">thehackersbrain.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 
 <div align="center">
