@@ -112,6 +112,13 @@ const StyledAvatarLink = styled.a`
   }
 `;
 
+const StyledBlogLink = styled.a`
+  ${mixins.bigButton};
+  margin-top: 25px;
+  padding: 1rem 2rem 1rem 2rem;
+  align: 'center';
+`;
+
 const About = ({ data }) => {
   const { frontmatter, html } = data[0].node;
   const { title, skills, avatar } = frontmatter;
@@ -127,6 +134,11 @@ const About = ({ data }) => {
           <SkillsContainer>
             {skills && skills.map((skill, i) => <Skill key={i}>{skill}</Skill>)}
           </SkillsContainer>
+          <div className="container text-center">
+            <StyledBlogLink href="https://blog.gauravraj.tech" target="_blank">
+              Blog
+            </StyledBlogLink>
+          </div>
         </StyledContent>
         <StyledPic>
           <StyledAvatarLink href={github}>
