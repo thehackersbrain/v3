@@ -135,7 +135,7 @@ const About = ({ data }) => {
             {skills && skills.map((skill, i) => <Skill key={i}>{skill}</Skill>)}
           </SkillsContainer>
           <div className="container text-center">
-            <StyledBlogLink href="https://blog.gauravraj.tech" target="_blank">
+            <StyledBlogLink href="https://thehackersbrain.github.io/blog/" target="_blank">
               Blog
             </StyledBlogLink>
           </div>

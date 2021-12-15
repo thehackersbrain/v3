@@ -108,7 +108,7 @@ const Menu = ({ menuOpen, toggleMenu }) => {
               ))}
           </NavList>
           <ResumeLink
-            href="https://blog.gauravraj.tech/"
+            href="https://thehackersbrain.github.io/blog/"
             target="_blank"
             rel="nofollow noopener noreferrer">
             Blog
