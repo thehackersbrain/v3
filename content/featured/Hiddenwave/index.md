@@ -3,7 +3,7 @@ date: '3'
 title: 'Hiddenwave'
 cover: 'hiddenwave.png'
 github: 'https://github.com/thehackersbrain/hiddenwave'
-external: 'https://gauravraj.tech/posts/how-to-hide-files-inside-audio-file-or-music-file/'
+external: 'https://thehackersbrain.github.io/blog/posts/how-to-hide-files-inside-audio-file-or-music-file/'
 tech:
   - C++
   - CMake
