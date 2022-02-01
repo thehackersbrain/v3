@@ -3,7 +3,7 @@ date: '2'
 title: 'CamPhish'
 cover: './camphish_banner.png'
 github: 'https://github.com/thehackersbrain/camphish'
-external: 'https://thehackersbrain.github.io/camphish'
+external: 'https://gauravraj.xyz/camphish'
 tech:
   - Python3
   - Camphish

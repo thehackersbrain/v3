@@ -3,7 +3,7 @@ date: '1'
 title: 'Webhawk - Web Recon Framework'
 cover: 'webhawk.png'
 github: 'https://github.com/thehackersbrain/webhawk'
-external: 'https://thehackersbrain.github.io/webhawk'
+external: 'https://gauravraj.xyz/webhawk'
 tech:
   - Python3
   - Webhawk
