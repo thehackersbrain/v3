@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://thehackersbrain.github.io/sitemap.xml
-Host: https://thehackersbrain.github.io
+Sitemap: https://gauravraj.xyz/sitemap.xml
+Host: https://gauravraj.xyz
