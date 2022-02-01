@@ -4,7 +4,7 @@ module.exports = {
     'I am Gaurav Raj. Hacker, Programmer & FreeLancer. Curious Student learning things while breaking and building things.',
   siteKeywords:
     'Gaurav Raj, thehackersbrain, hackersbrain, hacker, programmer, freelancer, gauravraj0408, hiddenwave, bihar, ctf, ctf player',
-  siteUrl: 'https://thehackersbrain.github.io/',
+  siteUrl: 'https://gauravraj.xyz/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-P7WXNB6ZHV',
   googleVerification: '',
